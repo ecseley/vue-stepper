@@ -93,7 +93,7 @@
 				</div>
 
 				<div class="saving-container">
-					<p class="savings">{{ potentialAutomation() }}%</p>
+					<p class="savings">{{ Math.round(potentialAutomation() * 100) }}%</p>
 					<p>Potential Automation Boost</p>
 				</div>
 			</div>
