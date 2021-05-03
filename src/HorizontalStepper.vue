@@ -9,7 +9,7 @@
 					v-model="$store.getters.activeStepIndex + 1"
 					radius="35"
 					width="8"
-					rangeColor="#d34ffe"
+					rangeColor="#FFAC28"
 					readOnly="true"
 					handleSize="0"
 					min="0"
